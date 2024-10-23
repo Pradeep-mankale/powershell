@@ -1,0 +1,1 @@
+﻿Restart-Service wuauserv,BITS,smstsmgr -Force |Get-Credential -Credential dir\pradeep.mankale

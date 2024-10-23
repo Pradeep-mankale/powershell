@@ -1,0 +1,1 @@
+﻿Restart-Service 'Avecto Defendpoint Service' -Force |Get-Credential -Credential dir\pradeep.mankale

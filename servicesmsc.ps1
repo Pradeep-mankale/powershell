@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath C:\windows\system32\services.msc | Credential dir\pradeep.mankale

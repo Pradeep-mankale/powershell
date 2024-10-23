@@ -1,0 +1,1 @@
+﻿Start-Process PowerShell_ISE.exe
